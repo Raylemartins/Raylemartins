@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Raylemartins  
+- 👀 I’m interested in cybersecurity, software development, and solving real-world challenges through technology.  
+- 🌱 I’m currently learning the fundamentals of cybersecurity and diving deeper into software engineering concepts.  
+- 💞️ I’m looking to collaborate on projects related to cybersecurity and open-source software.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raylemartins/).  
+- 😄 Pronouns: She/Her  
+- ⚡ Fun fact: I worked as a tattoo artist for 6 years before transitioning to tech, combining creativity and precision in my current journey.  
