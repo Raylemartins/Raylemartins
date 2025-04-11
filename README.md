@@ -1,9 +1,9 @@
 # Oi! Eu sou a Rayle 👋
 
-🎓 Estudante de Engenharia de Software  
-🔁 Em transição de carreira, buscando minha primeira oportunidade na área de tecnologia  
-📚 Estudando Python, Git, GitHub, JavaScript, Cibersegurança e Análise de Dados  
-🧠 Em constante aprendizado e prática
+Estudante de Engenharia de Software  
+Em transição de carreira, buscando minha primeira oportunidade na área de tecnologia  
+Estudando Python, Git, GitHub, JavaScript, Cibersegurança e Análise de Dados  
+Em constante aprendizado e prática
 
 ## 💻 Tecnologias que estou estudando:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
